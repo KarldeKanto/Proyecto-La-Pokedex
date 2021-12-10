@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+#Pkdex{
+
+    @apply text-center
+
+}
+
+h1{
+
+    @apply bg-red-800
+
+}
